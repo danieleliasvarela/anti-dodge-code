@@ -2,4 +2,4 @@
 2 - Ir pro LoL
 3 - Selecionar as lanes no LoL
 4 - Ir pro editor de texto
-5 - Rodar o código e não mexer no computador até a partida ser encontrada
+5 - Rodar o código
