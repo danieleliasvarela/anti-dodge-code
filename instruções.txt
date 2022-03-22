@@ -1,0 +1,5 @@
+1 - ABRIR A PASTA (importante porque ela contem as imagens utilizadas) no VSCode ou editor de texto utilizado	
+2 - Ir pro LoL
+3 - Selecionar as lanes no LoL
+4 - Ir pro editor de texto
+5 - Rodar o código e não mexer no computador até a partida ser encontrada
